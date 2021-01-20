@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://mrwangstudios.github.io</id>
+    <id>https://mrwangstudiosarticles.github.io</id>
     <title>老王工作室 Mr.Wang Studios</title>
-    <updated>2021-01-20T11:04:35.339Z</updated>
+    <updated>2021-01-20T11:27:33.929Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://mrwangstudios.github.io"/>
-    <link rel="self" href="https://mrwangstudios.github.io/atom.xml"/>
+    <link rel="alternate" href="https://mrwangstudiosarticles.github.io"/>
+    <link rel="self" href="https://mrwangstudiosarticles.github.io/atom.xml"/>
     <subtitle>欢迎，在这里查看工作室的有关信息与文章</subtitle>
-    <logo>https://mrwangstudios.github.io/images/avatar.png</logo>
-    <icon>https://mrwangstudios.github.io/favicon.ico</icon>
+    <logo>https://mrwangstudiosarticles.github.io/images/avatar.png</logo>
+    <icon>https://mrwangstudiosarticles.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 老王工作室 Mr.Wang Studios</rights>
     <entry>
         <title type="html"><![CDATA[欢迎来到老王工作室文章发布网站]]></title>
-        <id>https://mrwangstudios.github.io/post/welcome/</id>
-        <link href="https://mrwangstudios.github.io/post/welcome/">
+        <id>https://mrwangstudiosarticles.github.io/post/welcome/</id>
+        <link href="https://mrwangstudiosarticles.github.io/post/welcome/">
         </link>
         <updated>2021-01-20T10:47:59.000Z</updated>
         <content type="html"><![CDATA[<p>此网站为老王工作室的文章发布网站，</p>
@@ -24,8 +24,8 @@ http://mrwangstudios.free.idcfengye.com/<br>
     </entry>
     <entry>
         <title type="html"><![CDATA[测试文章]]></title>
-        <id>https://mrwangstudios.github.io/post/ce-shi-wen-zhang/</id>
-        <link href="https://mrwangstudios.github.io/post/ce-shi-wen-zhang/">
+        <id>https://mrwangstudiosarticles.github.io/post/ce-shi-wen-zhang/</id>
+        <link href="https://mrwangstudiosarticles.github.io/post/ce-shi-wen-zhang/">
         </link>
         <updated>2021-01-20T09:14:06.000Z</updated>
         <content type="html"><![CDATA[<p>Test<br>
