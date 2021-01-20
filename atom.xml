@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mrwangstudios.github.io</id>
-    <title>Gridea</title>
-    <updated>2021-01-20T10:32:21.302Z</updated>
+    <title>老王工作室 Mr.Wang Studios</title>
+    <updated>2021-01-20T10:42:51.401Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://mrwangstudios.github.io"/>
     <link rel="self" href="https://mrwangstudios.github.io/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>欢迎，在这里查看工作室的有关信息与文章</subtitle>
     <logo>https://mrwangstudios.github.io/images/avatar.png</logo>
     <icon>https://mrwangstudios.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2021, Gridea</rights>
+    <rights>All rights reserved 2021, 老王工作室 Mr.Wang Studios</rights>
     <entry>
         <title type="html"><![CDATA[测试文章]]></title>
         <id>https://mrwangstudios.github.io/post/ce-shi-wen-zhang/</id>
