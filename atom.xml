@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mrwangstudiosarticles.github.io</id>
     <title>老王工作室 Mr.Wang Studios</title>
-    <updated>2021-02-28T12:25:58.878Z</updated>
+    <updated>2021-02-28T12:27:49.603Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://mrwangstudiosarticles.github.io"/>
     <link rel="self" href="https://mrwangstudiosarticles.github.io/atom.xml"/>
@@ -10,6 +10,15 @@
     <logo>https://mrwangstudiosarticles.github.io/images/avatar.png</logo>
     <icon>https://mrwangstudiosarticles.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 老王工作室 Mr.Wang Studios</rights>
+    <entry>
+        <title type="html"><![CDATA[PVMElulaOS]]></title>
+        <id>https://mrwangstudiosarticles.github.io/post/pvmelulaos/</id>
+        <link href="https://mrwangstudiosarticles.github.io/post/pvmelulaos/">
+        </link>
+        <updated>2021-02-28T12:27:09.000Z</updated>
+        <content type="html"><![CDATA[<p>PVMElulaOS测试文章</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[PVM测试]]></title>
         <id>https://mrwangstudiosarticles.github.io/post/pvmtest/</id>
