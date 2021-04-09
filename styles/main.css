@@ -910,10 +910,10 @@ header.masthead .row .site-heading h1 {
   font-size: 50px;
 }
 .user-avatar {
-  width: 100px;
-  border-radius: 50%;
-  border: 1px solid rgb(229 219 219);
-  box-shadow: 0 3px 15px 2px rgb(62 59 59);
+  width: 0px;
+  border-radius: 00%;
+  border: 0px solid rgb(229 219 219);
+  box-shadow: 0 0px 0px 0px rgb(62 59 59);
   margin-bottom: 20px;
 }
 @media only screen and (min-width: 768px) {
