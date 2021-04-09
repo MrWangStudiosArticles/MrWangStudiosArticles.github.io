@@ -1,15 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mrwangstudiosarticles.github.io</id>
-    <title>老王工作室 Mr.Wang Studios</title>
-    <updated>2021-02-28T14:01:52.718Z</updated>
+    <title>Mr.Wang Studios</title>
+    <updated>2021-04-09T14:36:07.446Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://mrwangstudiosarticles.github.io"/>
     <link rel="self" href="https://mrwangstudiosarticles.github.io/atom.xml"/>
-    <subtitle>欢迎，在这里查看工作室的有关信息与文章</subtitle>
+    <subtitle>欢迎来到老王工作室官方文章发布网站</subtitle>
     <logo>https://mrwangstudiosarticles.github.io/images/avatar.png</logo>
     <icon>https://mrwangstudiosarticles.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2021, 老王工作室 Mr.Wang Studios</rights>
+    <rights>All rights reserved 2021, Mr.Wang Studios</rights>
+    <entry>
+        <title type="html"><![CDATA[2]]></title>
+        <id>https://mrwangstudiosarticles.github.io/post/2/</id>
+        <link href="https://mrwangstudiosarticles.github.io/post/2/">
+        </link>
+        <updated>2021-03-05T09:35:24.000Z</updated>
+        <summary type="html"><![CDATA[<p><strong>2222</strong></p>
+]]></summary>
+        <content type="html"><![CDATA[<p><strong>2222</strong></p>
+<!-- more -->
+<ul>
+<li>2222</li>
+<li>2222222222</li>
+</ul>
+<h1 id="33333">33333</h1>
+<!-- more -->
+<!-- more -->
+<p>2222222222222</p>
+<!--2222222 -->
+<figure data-type="image" tabindex="1"><img src="https://mrwangstudiosarticles.github.io/post-images/1614936932067.png" alt="" loading="lazy"></figure>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[PVM] ElulaOS 1.0 Public Beta SnowBerg 已适配 PVM]]></title>
         <id>https://mrwangstudiosarticles.github.io/post/pvmelulaos/</id>
