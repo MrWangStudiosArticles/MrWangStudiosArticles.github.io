@@ -854,12 +854,16 @@ header.masthead .site-heading h1 {
 }
 header.masthead .page-heading .subheading,
 header.masthead .site-heading .subheading {
-  font-size: 0px;
-  font-weight: 300;
+  font-size: 28px;
+  font-weight: bolder;
   line-height: 1.1;
   display: block;
   margin: 10px 0 0;
-  font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "微软雅黑", "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  position: absolute;
+  right: -138px;
+  top: -7px;
+  letter-spacing: 1px;
 }
 @media only screen and (min-width: 768px) {
   header.masthead .page-heading h1,
@@ -876,7 +880,7 @@ header.masthead .post-heading .subheading {
   display: block;
 }
 header.masthead .post-heading .subheading {
-  font-size: 0px;
+  font-size: 20px;
   font-weight: 600;
   margin: 10px 0 30px;
   font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -910,11 +914,14 @@ header.masthead .row .site-heading h1 {
   font-size: 0px;
 }
 .user-avatar {
-  width: 0px;
+  width: 300px;
   border-radius: 0%;
   border: 0px solid rgb(229 219 219);
   box-shadow: 0 0px 0px 0px rgb(62 59 59);
   margin-bottom: 20px;
+  position: absolute;
+  left: -160px;
+  top: -30px;
 }
 @media only screen and (min-width: 768px) {
   header.masthead .post-heading h2 {
@@ -934,7 +941,7 @@ header.masthead .row .site-heading h1 {
     height: 230px !important;
   }
   header.masthead .row .site-heading .user-avatar {
-    width: 0px;
+    width: 300px;
   }
   header.masthead .row .site-heading h1 {
     font-size: 0px !important;
