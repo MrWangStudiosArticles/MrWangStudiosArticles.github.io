@@ -1055,9 +1055,9 @@ h3.serchedPreview {
   font-size: 10px;
 }
 #mainNav .navbar-toggler {
-  font-size: 12px;
+  font-size: 2px;
   font-weight: 800;
-  padding: 13px;
+  padding: 8px;
   text-transform: uppercase;
 }
 #mainNav .navbar-nav > li.nav-item > a {
