@@ -941,7 +941,10 @@ header.masthead .row .site-heading h1 {
     height: 230px !important;
   }
   header.masthead .row .site-heading .user-avatar {
-    width: 300px;
+    width: 200px;
+    position: relative;
+    left: 3px;
+    top: 18px;
   }
   header.masthead .row .site-heading h1 {
     font-size: 0px !important;
@@ -1155,38 +1158,38 @@ h3.serchedPreview {
 }
 
 			body {
-				background-color: #ffffff !important;
-				color: #4a4a4a !important;
+				background-color: #1c1c1c !important;
+				color: #ffffff !important;
 			}
 
 			#mainNav.is-fixed {
-				background-color: RGBA(255,255,255,0.9);
-				border-bottom: 1px solid #ffffff;
+				background-color: RGBA(28,28,28,0.9);
+				border-bottom: 1px solid #ed570c;
 			}
 
 			.fixed-top {
-				background-color: #ffffff;
+				background-color: #1c1c1c;
 			}
 			.fixed-top .navbar-brand,
 			.fixed-top .navbar-nav > li.nav-item > a,
 			.fixed-top .navbar-toggler {
-				color: #4a4a4a;
+				color: #ffffff;
 			}
 			.navbar-light .navbar-toggler {
-				border-color: RGBA(74,74,74,0.5) !important;;
+				border-color: RGBA(255,255,255,0.5) !important;;
 			}
 
 			a {
-				color: RGBA(0,133,161,0.7) ;
+				color: RGBA(237,87,12,0.7) ;
 			}
 
 			a:focus,
 			a:hover {
-				color: #0085a1 ;
+				color: #ed570c ;
 			}
 
             .row .post-row-container {
-				background-color: #f3f3f3a8 !important;
+				background-color: #1c1c1c !important;
 			}
 
 			.title-floor .post-title-container a,
@@ -1195,99 +1198,99 @@ h3.serchedPreview {
 			.list-inline .list-inline-item a,
 			#mainNav.is-fixed .navbar-brand,
 			#mainNav.is-fixed .navbar-nav > li.nav-item > a {
-				color: #4a4a4a !important;
+				color: #ffffff !important;
 			}
 			.title-floor .post-title-container a:after,
 			.pagination-active a{
-				background-color: #4a4a4a !important;
+				background-color: #ffffff !important;
 			}
 
 			blockquote {
-				border-left: 2px solid #0085a1;
-				color: #0085a1 !important;
+				border-left: 2px solid #ed570c;
+				color: #ed570c !important;
 			}
 
 			.post-preview > .post-meta {
-				color: #868e96 !important;
+				color: #ced4da !important;
 			}
 
 			.title-floor .post-title-container a:hover,
 			#mainNav.is-fixed .navbar-brand:hover,
 			#mainNav.is-fixed .navbar-nav > li.nav-item > a:hover {
-				color: #0085a1 !important;
+				color: #ed570c !important;
 			}
 
 			.title-floor .post-title-container a:hover::after{
-				background-color: #0085a1 !important;
+				background-color: #ed570c !important;
 			}
 
 			::selection{
-				background: #0085a1 !important;
+				background: #ed570c !important;
 			}
 
 			.post-row-sec-floor .post-tag {
-				color: #4a4a4a !important;
-				border-color: #4a4a4a !important;;
+				color: #ffffff !important;
+				border-color: #ffffff !important;;
 			}
 
 			.post-row-sec-floor .post-tag:hover {
-				color: #0085a1 !important;
-				border-color: #0085a1 !important;
+				color: #ed570c !important;
+				border-color: #ed570c !important;
 			}
 
 			.page {
-				border-top: 1px solid #0000001a !important;
+				border-top: 1px solid #ed570c !important;
 			}
 
 			hr {
-				border-top: 1px solid #0000001a !important;
+				border-top: 1px solid #ed570c !important;
 			}
 
 			.fa-inverse {
-				color: #ffffff !important;
+				color: #ed570c !important;
 			}
 
 			.pagination-ul a:hover {
-				background-color: #817c7c !important;
-				color: #ffffff !important;
-				box-shadow: 0 1px 4px 2px RGBA(129,124,124,0.9) !important;
+				background-color: #f8f9fa !important;
+				color: #ed570c !important;
+				box-shadow: 0 1px 4px 2px RGBA(248,249,250,0.9) !important;
 			}
 
 			.pagination-ul .pagination-active a{
-				color: #ffffff !important;
-				box-shadow: 0 1px 4px 2px RGBA(129,124,124,0.9) !important;
+				color: #ed570c !important;
+				box-shadow: 0 1px 4px 2px RGBA(248,249,250,0.9) !important;
 			}
 
 			.sticky-top-flag {
-				background: RGBA(74,74,74,0.8) !important;
-				color: #ffffff !important;
+				background: RGBA(255,255,255,0.8) !important;
+				color: #ed570c !important;
 			}
 
 			header.masthead .overlay {
-				opacity: 0.4 !important;
+				opacity: 0.3 !important;
 			}
 
 			.toc-container .markdownIt-TOC {
-				border: 1px solid RGBA(74,74,74,0.3);
-				background-color: #ffffff;
+				border: 1px solid RGBA(255,255,255,0.3);
+				background-color: #1c1c1c;
 			}
 
 			.toc-container .markdownIt-TOC li a {
-				color: RGBA(74,74,74,0.5);
+				color: RGBA(255,255,255,0.5);
 			}
 
 			.currentToc {
-				color: #0085a1 !important;
-				background-color: RGBA(74,74,74,0.1);
+				color: #ed570c !important;
+				background-color: RGBA(255,255,255,0.1);
 			}
 
 			.toc-container li a:hover {
-				background-color: RGBA(74,74,74,0.1);
+				background-color: RGBA(255,255,255,0.1);
 			}
 
 			.row .post-row-container ,
 			#post-content-article .container .post-feature-header-image {
-				box-shadow: 0 3px 15px 2px #c1bcbc;;
+				box-shadow: 0 3px 15px 2px #868e96;;
 			}
 			
          
