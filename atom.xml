@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mrwangstudiosarticles.github.io</id>
     <title>Mr.Wang Studios 官方文章发布网站</title>
-    <updated>2021-04-10T12:30:58.296Z</updated>
+    <updated>2021-04-10T14:03:28.092Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://mrwangstudiosarticles.github.io"/>
     <link rel="self" href="https://mrwangstudiosarticles.github.io/atom.xml"/>
@@ -11,6 +11,17 @@
     <logo>https://mrwangstudiosarticles.github.io/images/avatar.png</logo>
     <icon>https://mrwangstudiosarticles.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Mr.Wang Studios 官方文章发布网站</rights>
+    <entry>
+        <title type="html"><![CDATA[【补】又逢花开时 老王工作室两周年！]]></title>
+        <id>https://mrwangstudiosarticles.github.io/post/bu-you-feng-hua-kai-shi-lao-wang-gong-zuo-shi-liang-zhou-nian/</id>
+        <link href="https://mrwangstudiosarticles.github.io/post/bu-you-feng-hua-kai-shi-lao-wang-gong-zuo-shi-liang-zhou-nian/">
+        </link>
+        <updated>2021-04-10T13:57:14.000Z</updated>
+        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://mrwangstudiosarticles.github.io/post-images/1618063109387.jpg" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="2"><img src="https://mrwangstudiosarticles.github.io/post-images/1618063132819.jpg" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="3"><img src="https://mrwangstudiosarticles.github.io/post-images/1618063136523.jpg" alt="" loading="lazy"></figure>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2]]></title>
         <id>https://mrwangstudiosarticles.github.io/post/2/</id>
