@@ -147,7 +147,7 @@ img {
 }
 h2.post-title.Archives {
   font-size: 20px;
-  color: #4a4a4a;
+  color: #ffffff;
   margin-bottom: 0;
 }
 .time {
@@ -509,7 +509,7 @@ h3.post-subtitle p {
 }
 /************ 首页cell **************/
 .row .post-row-container {
-  margin: 30px 30px;
+  margin: 35px -50px;
   border-radius: 10px;
   padding: 10px 30px 20px 30px;
   transition: all 0.3s;
@@ -953,8 +953,8 @@ header.masthead .row .site-heading h1 {
     font-size: 0px;
     margin: 15px 0 0;
   }
-  header.masthead .row .post-heading h2 {
-    font-size: 23px !important;
+  header.masthead .row .post-heading h1 {
+    font-size: 18px !important;
   }
   header.masthead .row .post-heading span {
     font-size: 12px !important;
@@ -1291,7 +1291,7 @@ h3.serchedPreview {
 
 			.row .post-row-container ,
 			#post-content-article .container .post-feature-header-image {
-				box-shadow: 0 3px 15px 2px #868e96;;
+				box-shadow: 0 3px 15px 2px #000000;;
 			}
 			
          
