@@ -862,7 +862,7 @@ header.masthead .site-heading .subheading {
   font-family: "微软雅黑", "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   position: absolute;
   right: -138px;
-  top: -7px;
+  top: -23px;
   letter-spacing: 1px;
 }
 @media only screen and (min-width: 768px) {
@@ -872,7 +872,7 @@ header.masthead .site-heading .subheading {
   }
 }
 header.masthead .post-heading h1 {
-  font-size: 35px;
+  font-size: 28px;
 }
 header.masthead .post-heading .meta,
 header.masthead .post-heading .subheading {
@@ -1159,17 +1159,17 @@ h3.serchedPreview {
 }
 
 			body {
-				background-color: #1c1c1c !important;
+				background-color: #121212 !important;
 				color: #ffffff !important;
 			}
 
 			#mainNav.is-fixed {
-				background-color: RGBA(28,28,28,0.9);
+				background-color: RGBA(18,18,18,0.9);
 				border-bottom: 1px solid #ed570c;
 			}
 
 			.fixed-top {
-				background-color: #1c1c1c;
+				background-color: #121212;
 			}
 			.fixed-top .navbar-brand,
 			.fixed-top .navbar-nav > li.nav-item > a,
@@ -1190,7 +1190,7 @@ h3.serchedPreview {
 			}
 
             .row .post-row-container {
-				background-color: #1c1c1c !important;
+				background-color: #121212 !important;
 			}
 
 			.title-floor .post-title-container a,
@@ -1212,7 +1212,7 @@ h3.serchedPreview {
 			}
 
 			.post-preview > .post-meta {
-				color: #ced4da !important;
+				color: #f1f3f5 !important;
 			}
 
 			.title-floor .post-title-container a:hover,
@@ -1273,7 +1273,7 @@ h3.serchedPreview {
 
 			.toc-container .markdownIt-TOC {
 				border: 1px solid RGBA(255,255,255,0.3);
-				background-color: #1c1c1c;
+				background-color: #121212;
 			}
 
 			.toc-container .markdownIt-TOC li a {
